@@ -2,6 +2,7 @@
 <div align="center">
   <img width="650" height="auto" src="images/Chatbot_Hello.png">
 </div>
+
 ## Table of Contents <!-- omit from toc -->
 - [Basic_Programming_Practice_Project](#Basic_Programming_Practice_Project)
 - [After_the_Basic_Programming_Practice](#After_the_Basic_Programming_Practice)
